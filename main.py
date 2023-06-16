@@ -54,7 +54,7 @@ url = "https://cloud.samsara.com/o/75184/fleet/reports/safety/dashboard/summary?
 
 chrome_options = Options()
 chrome_options.add_experimental_option("prefs", {
-  "download.default_directory": r"C:\path\to\download\directory",
+  "download.default_directory": r"C:/Users/sgtjo/PycharmProjects/MonthlyRollup/MonthlyData",
   "download.prompt_for_download": False,
   "download.directory_upgrade": True,
   "safebrowsing.enabled": True
